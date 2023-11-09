@@ -1,0 +1,183 @@
+/* GENERAL */
+
+body {
+    background-color: black;
+    font-family: monospace;
+}
+
+/* HOMEPAGE */
+
+.homepage-captions{
+    color: rgb(80, 251, 42);
+    float: right;
+    margin-right: 15%;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 250%;
+}
+
+.homepage-photo {
+    width: 950px;
+    height: 978px;
+    margin-top: 5px;
+    border: solid rgb(80, 251, 42) 3px;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+/* ABOUT ME PAGE */
+
+.about-me {
+    color: rgb(80, 251, 42);
+    font-size: 130%;
+}
+
+.about-me-skills {
+    margin-top: 8%;
+}
+
+.about-me-passions {
+    margin-top: 8%;
+}
+
+.about-me-pets {
+    margin-top: 8%;
+}
+
+.about-image1 {
+    float: right;
+    height: 800px;
+    width: 700px;
+    margin-top: -40%;
+    margin-right: 5%;
+    border: 5px solid rgb(80, 251, 42);
+    border-radius: 5%;
+
+}
+
+/* PORTFOLIO PAGE*/
+
+body {
+    color:rgb(80, 251, 42);
+}
+
+.portfolio-title {
+    font-size: 300%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.projects {
+    font-size: 150%;
+    text-align: center;
+}
+
+.project-1 {
+    
+}
+
+.project-2 {
+
+}
+
+.project-3 {
+
+}
+
+.project-4 {
+
+}
+
+.project-1-image {
+    height: 300px;
+    width: 500px;
+    border: 3px solid rgb(80, 251, 42);
+    border-radius: 5%;
+}
+
+.project-2-image {
+    height: 300px;
+    width: 500px;
+    border: 3px solid rgb(80, 251, 42);
+    border-radius: 5%;
+}
+
+.project-3-image {
+    height: 300px;
+    width: 500px;
+    border: 3px solid rgb(80, 251, 42);
+    border-radius: 5%;
+}
+
+.project-4-image {
+    height: 300px;
+    width: 500px;
+    border: 3px solid rgb(80, 251, 42);
+    border-radius: 5%;
+}
+
+/* CONTACT PAGE */
+
+
+.name {
+    text-align: center;
+    color: rgb(80, 251, 42);
+    font-size: 200%;
+    margin-top: 5%;
+}
+
+.email {
+    text-align: center;
+    color: rgb(80, 251, 42);
+    font-size: 200%;
+    margin-top: 5%;
+}
+
+.message {
+    text-align: center;
+    color: rgb(80, 251, 42);
+    font-size: 200%;
+    margin-top: 5%;
+}
+
+.button {
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+/* NAVBAR SECTION */
+
+.navbar-header {
+    border: 3px solid rgb(80, 251, 42);
+}
+
+.page-title {
+    margin-left: 2%;
+}
+
+.navbar-item, .page-title {
+    display: inline;
+    position: relative;
+    width: 100%;
+}
+
+.page-title {
+    font-size: 300%;
+    color: rgb(80, 251, 42);
+}
+
+.navbar-anchor {
+    float: right;
+    margin-right: 1%;    
+}
+
+.navbar-anchor {
+    text-decoration: none;
+    color: rgb(80, 251, 42);
+    font-size: 250%;
+}
+
+.navbar-anchor:hover {
+    color: white;
+}
